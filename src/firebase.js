@@ -11,13 +11,13 @@ import firebase from "firebase/compat/app";
 
 // Add yours details here
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
+  apiKey: "AIzaSyCqP3_a4yw1QcZwHF07Hvli_FQLMZF8hic",
+  authDomain: "fir-authenticationsystem-4013a.firebaseapp.com",
+  projectId: "fir-authenticationsystem-4013a",
+  storageBucket: "fir-authenticationsystem-4013a.appspot.com",
+  messagingSenderId: "353848566744",
+  appId: "1:353848566744:web:31669afdee3e4a32a288ad",
+  measurementId: "G-DMC05STDX1"
 };
 
 // Initialize Firebase
